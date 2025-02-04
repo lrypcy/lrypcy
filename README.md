@@ -17,7 +17,7 @@
 
 ### 🌐 Find Me
 📧 [1834182262@qq.com](mailto:1834182262@qq.com)
-💬 WeChat: lrypcy_tech
+💬 WeChat: lrypcy
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lrypcy.lrypcy)
