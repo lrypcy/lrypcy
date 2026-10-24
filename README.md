@@ -55,8 +55,7 @@
 ### 🌐 Find Me
 
 📧 [1834182262@qq.com](mailto:1834182262@qq.com)  
-💬 **WeChat**: lrypcy  
-🐙 **GitHub**: [@lrypcy](https://github.com/lrypcy)
+💬 **WeChat**: lrypcy
 
 ---
 
