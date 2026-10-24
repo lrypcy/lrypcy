@@ -33,9 +33,9 @@
 
 ### 💼 Professional Experience
 
-<img src="icons/xpeng.svg" width="20" align="center"> **XPeng (2023.07 ~ Present)** — *Autonomous Driving*  
-<img src="icons/momenta.png" width="20" align="center"> **Momenta (2021.03 ~ 2023.07)** — *Autonomous Driving*  
-<img src="icons/robosense.png" width="20" align="center"> **RoboSense (2020.07 ~ 2020.12)** — *Algorithm Researcher*
+<img src="icons/xpeng.svg" width="20" valign="middle"> **XPeng (2023.07 ~ Present)** — *Autonomous Driving*  
+<img src="icons/momenta.png" width="20" valign="middle"> **Momenta (2021.03 ~ 2023.07)** — *Autonomous Driving*  
+<img src="icons/robosense.png" width="20" valign="middle"> **RoboSense (2020.07 ~ 2020.12)** — *Algorithm Researcher*
 
 ---
 
