@@ -7,7 +7,7 @@
 ### ⚡ Currently
 
 - 🔭 **Working on**: LLM inference & serving (quantization, speculative decoding, CUDA graphs), training systems (Megatron-LM parallelism), AI compiler (MLIR / xDSL), RL post-training infra
-- 🌱 **Learning**: Flow Matching & diffusion models, VLA / embodied AI
+- 🌱 **Learning**: Flow Matching & diffusion models, World Model / World Action Model, VLA / embodied AI
 - 💬 **Ask me about**: Megatron / vLLM / SGLang source code, model quantization, RL post-training, autonomous driving
 
 ---
