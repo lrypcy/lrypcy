@@ -1,6 +1,14 @@
 ## Hi there 👋 I'm Congyuan (lrypcy)
 
-🚀 **Autonomous Driving Engineer** | ☁️ **AI Compiler Explorer** | 🧠 **Full Stack Developer**
+🚀 **Autonomous Driving Engineer** | ⚡ **AI Infra & Model Algorithms** | 🧠 **Full Stack Developer**
+
+---
+
+### ⚡ Currently
+
+- 🔭 **Working on**: LLM inference & serving (quantization, speculative decoding, CUDA graphs), training systems (Megatron-LM parallelism), AI compiler (MLIR / xDSL), RL post-training infra
+- 🌱 **Learning**: Flow Matching & diffusion models, VLA / embodied AI
+- 💬 **Ask me about**: Megatron / vLLM / SGLang source code, model quantization, RL post-training, autonomous driving
 
 ---
 
@@ -12,8 +20,14 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-**Specialized Skills**
-`CUDA` `Docker` `Performance Optimization` `Concurrent Programming` `Computer Architecture` `Ray/RLlib` `Point Cloud Processing`
+**AI Infra**
+`Megatron-LM` `vLLM` `SGLang` `verl` `slime` `NCCL` `CUDA` `Triton` `torch.compile` `CUDA Graphs` `MLIR / xDSL` `Profiling`
+
+**Model Algorithms**
+`Quantization (PTQ / QAT · FP8 / INT4 / NVFP4)` `Speculative Decoding (EAGLE / MTP)` `RL Post-Training (GRPO / PPO / RLVR)` `Flow Matching & Diffusion` `Distillation` `VLA / Embodied AI`
+
+**General**
+`Docker` `Performance Optimization` `Concurrent Programming` `Computer Architecture` `Ray/RLlib` `Point Cloud Processing`
 
 ---
 
@@ -32,11 +46,11 @@
 
 ---
 
-### 🌐 Currently
+### 📝 Blog — 一身骄傲
 
-- 🌱 **Learning**: LLM/VLA, AI Compiler (xDSL, MLIR)
-- 🔭 **Working on**: Autonomous Driving (E2E/VLA/Simulation), RL Infrastructure
-- 💬 **Ask me about**: C++/Workflow/Autonomous Driving/VLA/RL/Compiler
+Writing deep source-code & math dives on AI infra and model algorithms (180+ posts, in Chinese) at **[lrypcy.github.io](https://lrypcy.github.io)**:
+
+[模型量化](https://lrypcy.github.io/categories/?cat=模型量化) (30) · [分布式训练](https://lrypcy.github.io/categories/?cat=分布式训练) (26) · [强化学习](https://lrypcy.github.io/categories/?cat=强化学习) (21) · [推理服务](https://lrypcy.github.io/categories/?cat=推理服务) (19) · [编译器技术](https://lrypcy.github.io/categories/?cat=编译器技术) (16) · [Flow Matching 系列](https://lrypcy.github.io/tags/?tag=flow-matching) (7)
 
 ---
 
@@ -44,8 +58,7 @@
 
 📧 [1834182262@qq.com](mailto:1834182262@qq.com)  
 💬 **WeChat**: lrypcy  
-🐙 **GitHub**: [@lrypcy](https://github.com/lrypcy)  
-📝 **Blog**: [lrypcy.github.io](https://lrypcy.github.io) — 一身骄傲 · AI Infra 技术博客
+🐙 **GitHub**: [@lrypcy](https://github.com/lrypcy)
 
 ---
 
