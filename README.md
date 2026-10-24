@@ -48,9 +48,7 @@
 
 ### 📝 Blog
 
-Writing deep source-code & math dives on AI infra and model algorithms (180+ posts, in Chinese) at **[lrypcy.github.io](https://lrypcy.github.io)**:
-
-[模型量化](https://lrypcy.github.io/categories/?cat=模型量化) (30) · [分布式训练](https://lrypcy.github.io/categories/?cat=分布式训练) (26) · [强化学习](https://lrypcy.github.io/categories/?cat=强化学习) (21) · [推理服务](https://lrypcy.github.io/categories/?cat=推理服务) (19) · [编译器技术](https://lrypcy.github.io/categories/?cat=编译器技术) (16) · [Flow Matching 系列](https://lrypcy.github.io/tags/?tag=flow-matching) (7)
+**[lrypcy.github.io](https://lrypcy.github.io)**
 
 ---
 
