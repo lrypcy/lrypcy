@@ -46,19 +46,6 @@
 
 ---
 
-### 📝 Blog
-
-**[lrypcy.github.io](https://lrypcy.github.io)**
-
----
-
-### 🌐 Find Me
-
-📧 [1834182262@qq.com](mailto:1834182262@qq.com)  
-💬 **WeChat**: lrypcy
-
----
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lrypcy.lrypcy)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lrypcy&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
