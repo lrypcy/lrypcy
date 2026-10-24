@@ -46,7 +46,7 @@
 
 ---
 
-### 📝 Blog — 一身骄傲
+### 📝 Blog
 
 Writing deep source-code & math dives on AI infra and model algorithms (180+ posts, in Chinese) at **[lrypcy.github.io](https://lrypcy.github.io)**:
 
