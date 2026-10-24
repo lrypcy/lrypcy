@@ -19,28 +19,9 @@
 
 ### 💼 Professional Experience
 
-**Suzhou Momenta (2021.03 ~ Present)** — *Autonomous Driving*
-
-🔭 **Automated Data Replay System** (2022.03 ~ Present) — *Lead Architect*
-- Built from-scratch APA scenario data replay system with Python-based process management
-- Enhanced robustness: Custom bag player/recorder with dynamic module state monitoring, reducing unacceptable failure rate to **<2%**
-- Achieved **100%** replay consistency for visual perception, **99%** for fusion perception
-- Doubled replay efficiency through profiling optimization (Prometheus + web dashboard)
-- Designed data version management solution for mainline alignment and format upgrades
-
-🔬 **Programmable Simulation** (2023.05 ~ 2023.07) — *Architecture Developer*
-- Designed environment module using pybind11 for Python/C++ hybrid calling
-- Integrated planning module with RLlib framework for custom simulation policies
-- Built environment-policy interaction loop with planning SDK
-
-📷 **Visual Perception SDK** (2021.06 ~ 2022.03) — *SDK Lead*
-- Led 4 major interface upgrades; implemented model inference threading & multi-input topic sync
-- Deployed on x86 and embedded platforms (QNX, Orin); evaluated robustness & performance
-- Migrated to Conan-based version management, solving version traceability issues
-
-**Shenzhen Juchuang Technology** (2020.07 ~ 2020.12) — *Algorithm Researcher*
-- Researched and optimized point cloud processing algorithms (RANSAC, ground segmentation, obstacle clustering)
-- Evaluated PV-RCNN based 3D detection models across different categories
+🚙 **XPeng 小鹏汽车 (2023.07 ~ Present)** — *Autonomous Driving*  
+🚗 **Suzhou Momenta (2021.03 ~ 2023.07)** — *Autonomous Driving*  
+📷 **Shenzhen Juchuang Technology (2020.07 ~ 2020.12)** — *Algorithm Researcher*
 
 ---
 
