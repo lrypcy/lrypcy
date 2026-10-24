@@ -21,13 +21,33 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 **AI Infra**
-`Megatron-LM` `vLLM` `SGLang` `verl` `slime` `NCCL` `CUDA` `Triton` `torch.compile` `CUDA Graphs` `MLIR / xDSL` `Profiling`
+![Megatron-LM](https://img.shields.io/badge/Megatron--LM-3b82f6)
+![vLLM](https://img.shields.io/badge/vLLM-3b82f6)
+![SGLang](https://img.shields.io/badge/SGLang-3b82f6)
+![verl](https://img.shields.io/badge/verl-3b82f6)
+![slime](https://img.shields.io/badge/slime-3b82f6)
+![NCCL](https://img.shields.io/badge/NCCL-3b82f6)
+![CUDA](https://img.shields.io/badge/CUDA-3b82f6)
+![Triton](https://img.shields.io/badge/Triton-3b82f6)
+![torch.compile](https://img.shields.io/badge/torch.compile-3b82f6)
+![MLIR / xDSL](https://img.shields.io/badge/MLIR%20%2F%20xDSL-3b82f6)
 
 **Model Algorithms**
-`Quantization (PTQ / QAT · FP8 / INT4 / NVFP4)` `Speculative Decoding (EAGLE / MTP)` `RL Post-Training (GRPO / PPO / RLVR)` `Flow Matching & Diffusion` `Distillation` `VLA / Embodied AI`
+![Quantization](https://img.shields.io/badge/Quantization-8b5cf6)
+![Speculative Decoding](https://img.shields.io/badge/Speculative%20Decoding-8b5cf6)
+![RL Post-Training](https://img.shields.io/badge/RL%20Post--Training-8b5cf6)
+![Flow Matching](https://img.shields.io/badge/Flow%20Matching-8b5cf6)
+![Diffusion](https://img.shields.io/badge/Diffusion-8b5cf6)
+![Distillation](https://img.shields.io/badge/Distillation-8b5cf6)
+![VLA / Embodied AI](https://img.shields.io/badge/VLA%20%2F%20Embodied%20AI-8b5cf6)
 
 **General**
-`Docker` `Performance Optimization` `Concurrent Programming` `Computer Architecture` `Ray/RLlib` `Point Cloud Processing`
+![Docker](https://img.shields.io/badge/Docker-64748b)
+![Performance Profiling](https://img.shields.io/badge/Performance%20Profiling-64748b)
+![Concurrent Programming](https://img.shields.io/badge/Concurrent%20Programming-64748b)
+![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-64748b)
+![Ray/RLlib](https://img.shields.io/badge/Ray%2FRLlib-64748b)
+![Point Cloud Processing](https://img.shields.io/badge/Point%20Cloud%20Processing-64748b)
 
 ---
 
