@@ -19,9 +19,9 @@
 
 ### 💼 Professional Experience
 
-🚙 **XPeng 小鹏汽车 (2023.07 ~ Present)** — *Autonomous Driving*  
-🚗 **Suzhou Momenta (2021.03 ~ 2023.07)** — *Autonomous Driving*  
-📷 **Shenzhen Juchuang Technology (2020.07 ~ 2020.12)** — *Algorithm Researcher*
+<img src="icons/xpeng.svg" width="20" align="center"> **XPeng 小鹏汽车 (2023.07 ~ Present)** — *Autonomous Driving*  
+<img src="icons/momenta.png" width="20" align="center"> **Suzhou Momenta (2021.03 ~ 2023.07)** — *Autonomous Driving*  
+<img src="icons/robosense.png" width="20" align="center"> **RoboSense 速腾聚创 (2020.07 ~ 2020.12)** — *Algorithm Researcher*
 
 ---
 
